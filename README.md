@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Por favor para acceder al video con la demostracion del proyecto ir a https://uninorte-my.sharepoint.com/:v:/g/personal/prietow_uninorte_edu_co/Ef3MyNVVzn1JnMu_lYI0ix0BUAcDjVcuC6g9-hdYSbqnog?e=7DmdCj
 
+Asi mismo se ha dado acceso a Daniel Eduardo Carrillo Garcia para poder acceder al video, la invitacion debe haber llegado a su correo 
+
 Asi mismo, confirmamos que los 5 participantes hemos participado activamente y aportado al desarrollo del Sprint 1
